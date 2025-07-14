@@ -24,11 +24,13 @@ section.Infotmation{
 	}
 .doctor{
 	padding: 10px;
-	border: 4px #3da6aa double;
+	border: 2px solid yellow;
+	outline: 2px solid blue;
+	outline-offset: 2px;
 	margin:20px;
 	}
 .doctor img{
-	
+
 	margin-left:15% ;
 }
 .doctor:hover{
@@ -45,4 +47,3 @@ section.Infotmation{
 	font-family: 'Roboto Slab', serif;
 	text-transform: uppercase;
 }
-
